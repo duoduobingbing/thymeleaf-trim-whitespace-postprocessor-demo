@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ThymeleafwhitespaceApplication<thymeleafwhitespace>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.thymeleafwhitespace.ThymeleafwhitespaceApplication",
+            "projectName": "thymeleafwhitespace",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
